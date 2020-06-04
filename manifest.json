@@ -6,7 +6,7 @@
 		"version": "0.2.0"
 	}],
 	"tool-siwiflasher": [{
-		"sha1": "0bf83e07837b6f493d263426b2fd095811c28397",
+		"sha1": "dc37dc97969f6a29e56a2e0c4dba76949c78e064",
 		"system": [
 			"windows",
 			"windows_amd64",
