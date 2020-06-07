@@ -1,9 +1,9 @@
 {
 	"framework-siwisdk": [{
-		"sha1": "2d952c33c3ce10720de0e5a45920f4d074d8e1e5",
+		"sha1": "c5f029c7e213eeade89eb9078d2844dde75080cf",
 		"system": "*",
-		"url": "https://github.com/siwiembedded/siwisdk/archive/v0.2.0.tar.gz",
-		"version": "0.2.0"
+		"url": "https://github.com/siwiembedded/siwisdk/archive/v0.3.0.tar.gz",
+		"version": "0.3.0"
 	}],
 	"tool-siwiflasher": [{
 		"sha1": "dc37dc97969f6a29e56a2e0c4dba76949c78e064",
